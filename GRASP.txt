@@ -1,0 +1,64 @@
+
+#InterfataGrafica
+Cuplaj mic(nu depinde de nicio clasa)
+Coeziune mică (face prea multe lucruri ) 
+
+# Compilator
+Cuplaj mic (nu depinde decat de o clasa)
+Coeziune mică (face prea multe lucruri )
+
+# Debugger
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+#EditorText
+ Cuplaj mic (nu depinde decat de o clasa)
+ Coeziune mare (nu face foarte multe lucruri )
+
+#ErrorBox
+Cuplaj mic (nu depinde decat de o clasa)
+Coeziune mare (nu face foarte multe lucruri )
+
+# Meniu
+Cuplaj mic (nu depinde decat de o clasa)
+Coeziune mică (face prea multe lucruri )
+
+#File
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+#Edit
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+#View
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+
+#Navigate
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+#Code
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+
+
+# FileExplorer
+Cuplaj mic (nu depinde decat de o clasa)
+Coeziune mică (face prea multe lucruri )
+
+#Clase
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+
+#External Libraries
+Cuplaj mare(depinde de doua clase)
+Coeziune mare (nu face foarte multe lucruri )
+
+
+
+
